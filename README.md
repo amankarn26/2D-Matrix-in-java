@@ -9,12 +9,19 @@ Input width and height of matrix: 6 8
 Input Matrix with numbers from 0 to 9:
 
 2 0 6 1 2 5
+
 1 0 5 0 1 3
+
 3 0 1 2 4 1
+
 0 1 3 1 1 9
+
 4 1 0 8 5 2
+
 0 1 0 1 2 3
+
 6 5 3 1 0 2
+
 0 0 1 6 0 4
 
 Input maximum width of square submatrix (for square submatrix height and width are same) : 3
